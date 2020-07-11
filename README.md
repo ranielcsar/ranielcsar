@@ -1,3 +1,3 @@
 ### E aí! (Hi there!) :D
 
-<h3>Meu nome é <h2>Raniel César</h2></h3>
+Me chamo **Raniel César**. Sou desenvolvedor FrontEnd Jr e tenho habilidades em HTML, CSS e JavaScript!

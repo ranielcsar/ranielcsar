@@ -4,8 +4,8 @@
 
 ```javascript
 const myself = () => ({
-  name: 'Raniel César',
-  skills: 'HTML, CSS, JS'
+   name: 'Raniel César',
+   skills: 'HTML, CSS, JS'
 });
 
 console.log(`Oi! Me chamo ${myself.name} e sei umas coisas de ${myself.skills}. :D`);

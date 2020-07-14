@@ -9,6 +9,8 @@ const myself = () => ({
 });
 
 console.log(`Oi! Me chamo ${myself.name} e sei umas coisas de ${myself.skills}. :D`);
+
+console.log(`Hi! I'm ${myself.name} and I know some stuffs from ${myself.skills}. :D`);
 ```
 
 

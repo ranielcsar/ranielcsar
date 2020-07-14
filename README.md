@@ -8,7 +8,7 @@ const Person = (name, skills) => ({
    skills: skills
 });
 
-const myself = Person('Raniel César, 'HTML, CSS, JS');
+const myself = Person('Raniel César', 'HTML, CSS, JS');
 
 console.log(`Oi! Me chamo ${myself.name} e sei umas coisas de ${myself.skills}. :D`);
 

@@ -3,10 +3,12 @@
 <br>
 
 ```javascript
-const myself = () => ({
-   name: 'Raniel César',
-   skills: 'HTML, CSS, JS'
+const Person = (name, skills) => ({
+   name: name,
+   skills: skills
 });
+
+const myself = Person('Raniel César, 'HTML, CSS, JS');
 
 console.log(`Oi! Me chamo ${myself.name} e sei umas coisas de ${myself.skills}. :D`);
 

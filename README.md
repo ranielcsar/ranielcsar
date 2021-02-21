@@ -3,10 +3,7 @@
 <br>
 
 ```javascript
-const Person = (name, skills) => ({
-   name: name,
-   skills: skills
-});
+const Person = (name, skills) => ({ name, skills });
 
 const myself = Person('Raniel César', 'HTML, CSS & React JS/TS');
 

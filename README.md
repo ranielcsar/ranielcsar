@@ -14,5 +14,8 @@ console.log(`Hi! I'm ${myself.name} and I know some stuffs from ${myself.skills}
 // Hi! I'm Raniel César and I know some stuffs from HTML, CSS & React JS/TS. :D
 ```
 
+- CodeSandbox: https://codesandbox.io/u/ranielcsar
+
+---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ranielcsar&show_icons=true)

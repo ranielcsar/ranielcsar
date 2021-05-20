@@ -5,12 +5,12 @@
 ```javascript
 const Person = (name, skills) => ({ name, skills });
 
-const myself = Person('Raniel César', 'HTML, CSS & React JS/TS');
+const me = Person('Raniel César', 'HTML, CSS & React JS/TS');
 
-console.log(`Oi! Me chamo ${myself.name} e sei umas coisas de ${myself.skills}. :D`);
+console.log(`Oi! Me chamo ${me.name} e sei umas coisas de ${me.skills}. :D`);
 // Oi! Me chamo Raniel César e sei umas coisas de HTML, CSS & React JS/TS. :D
 
-console.log(`Hi! I'm ${myself.name} and I know some stuffs from ${myself.skills}. :D`);
+console.log(`Hi! I'm ${me.name} and I know some stuffs from ${me.skills}. :D`);
 // Hi! I'm Raniel César and I know some stuffs from HTML, CSS & React JS/TS. :D
 ```
 

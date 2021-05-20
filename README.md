@@ -2,9 +2,6 @@
 
 <br>
 
-- CodeSandbox: https://codesandbox.io/u/ranielcsar
-- Codepen: https://codepen.io/ranielcsar/pens/public
-
 ```javascript
 const Person = (name, skills) => ({ name, skills });
 
@@ -16,6 +13,9 @@ console.log(`Oi! Me chamo ${myself.name} e sei umas coisas de ${myself.skills}. 
 console.log(`Hi! I'm ${myself.name} and I know some stuffs from ${myself.skills}. :D`);
 // Hi! I'm Raniel César and I know some stuffs from HTML, CSS & React JS/TS. :D
 ```
+
+#### CodeSandbox: https://codesandbox.io/u/ranielcsar
+#### Codepen: https://codepen.io/ranielcsar/pens/public
 
 ---
 

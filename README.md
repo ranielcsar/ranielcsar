@@ -2,8 +2,13 @@
 
 <br>
 
-```javascript
-const Person = (name, skills) => ({ name, skills });
+```typescript
+type PersonType = {
+  name: string
+  skills: string
+}
+
+const Person = ({ name, skills }: PersonType) => ({ name, skills });
 
 const me = Person('Raniel César', 'HTML, CSS & React JS/TS');
 

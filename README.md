@@ -20,7 +20,6 @@ console.log(`Hi! I'm ${me.name} and I know some stuffs from ${me.skills}. :D`);
 ```
 
 #### CodeSandbox: https://codesandbox.io/u/ranielcsar
-#### Codepen: https://codepen.io/ranielcsar/pens/public
 
 ---
 

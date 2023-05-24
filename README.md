@@ -3,24 +3,58 @@
 <br>
 
 ```typescript
-type PersonType = {
-  name: string
-  skills: string
+type T_DevSkills = {
+  frontend: {
+    ux: boolean
+    ui: boolean
+    seo: boolean
+    performance: boolean
+    acessibility: boolean
+    responsivity: boolean
+    next: boolean
+    react: boolean
+  },
+  backend: {
+    node: boolean
+    prisma: boolean
+    graphql: boolean
+  },
+  principles: {
+    clean_code: boolean
+    solid: boolean
+    flux: boolean
+    open_source: boolean
+  }
 }
 
-const Person = ({ name, skills }: PersonType) => ({ name, skills });
-
-const me = Person('Raniel César', 'HTML, CSS & React JS/TS');
-
-console.log(`Oi! Me chamo ${me.name} e sei umas coisas de ${me.skills}. :D`);
-// Oi! Me chamo Raniel César e sei umas coisas de HTML, CSS & React JS/TS. :D
-
-console.log(`Hi! I'm ${me.name} and I know some stuffs from ${me.skills}. :D`);
-// Hi! I'm Raniel César and I know some stuffs from HTML, CSS & React JS/TS. :D
+const ranielDevSkills: T_DevSkills = {
+  frontend: {
+    ux: true,
+    ui: true,
+    seo: true,
+    performance: true,
+    acessibility: true,
+    responsivity: true,
+    next: true,
+    react: true
+  },
+  backend: {
+    node: true,
+    prisma: true,
+    graphql: true
+  },
+  principles: {
+    clean_code: true,
+    solid: true,
+    flux: true,
+    open_source: true
+  }
+}
 ```
 
-#### CodeSandbox: https://codesandbox.io/u/ranielcsar
+### CodeSandbox: https://codesandbox.io/u/ranielcsar
+### Personal site: https://ranielcsar.github.io/
 
 ---
 
-![github stats](https://github-readme-stats.vercel.app/api?username=ranielcsar&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ranielcsar&theme=black-ice)](https://git.io/streak-stats)

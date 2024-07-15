@@ -16,7 +16,6 @@
 - **Currículo: https://ranielcsar-organization.gitbook.io/curriculo/**
 - **Portfólio [desatualizado]: https://ranielcsar.github.io/**
 - **Codepen: https://codepen.io/ranielcsar/pens/popular**
-- **Resumos de estudo do livro Entendendo Algoritmos: https://raniels-organization.gitbook.io/entendendo-algoritmos-livro/**
 
 ---
 

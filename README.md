@@ -1,7 +1,8 @@
 <h1>Olá! Me chamo Raniel César e sou Desenvolvedor Web!</h1>
 Apaixonado por ciência e tecnologia, sou Desenvolvedor Frontend com 3 anos de experiência, sendo 2 anos em software house e 1 ano como freelancer. Atuei em projetos de Dashboards, Gestão de serviços, Controle de vendas, LandingPages e SaaS no geral utilizando NextJS, ReactJS, TypeScript entre outras tecnologias web. Tenho conhecimento em Angular, VueJS, Docker, Jest, Testing Library e no que diz respeito a desenvolvimento Backend: Prisma, Express e NestJS.
 
----
+<br>
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)

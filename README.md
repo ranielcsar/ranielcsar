@@ -17,7 +17,6 @@ Apaixonado por ciência e tecnologia, sou Desenvolvedor Frontend com 3 anos de e
 
 - **Linkedin: https://www.linkedin.com/in/ranielcsar/**
 - **Currículo: https://ranielcsar-organization.gitbook.io/curriculo/**
-- **Portfólio [desatualizado]: https://ranielcsar.github.io/**
 - **Codepen: https://codepen.io/ranielcsar/pens/popular**
 - **CodesandBox: https://codesandbox.io/u/ranielcsar**
 

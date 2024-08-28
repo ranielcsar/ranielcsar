@@ -1,4 +1,6 @@
 ### Olá! Me chamo Raniel César e sou Desenvolvedor Web!
+No momento estou cursando Lic. em Ciências da Computação pelo Ins. Federal Baiano, no campus de Sr. do Bonfim! 6º semestre.
+
 Apaixonado por ciência e tecnologia, sou Desenvolvedor Frontend com 3 anos de experiência, sendo 2 anos em software house e 1 ano como freelancer. Atuei em projetos de Dashboards, Gestão de serviços, Controle de vendas, LandingPages e SaaS no geral utilizando NextJS, ReactJS, TypeScript entre outras tecnologias web. Tenho conhecimento em Angular, VueJS, Docker, Jest, Testing Library e no que diz respeito a desenvolvimento Backend: Prisma, Express e NestJS.
 
 <br>

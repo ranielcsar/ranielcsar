@@ -9,8 +9,9 @@ E outra: aprendo e me adapto rápido às mudanças.
 <br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) <br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white) <br>
@@ -27,4 +28,4 @@ E outra: aprendo e me adapto rápido às mudanças.
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ranielcsar&theme=black-ice)](https://git.io/streak-stats)
+![ranielcsar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranielcsar&theme=vue-dark&hide_border=true)

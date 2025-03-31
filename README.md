@@ -22,7 +22,6 @@ E outra: aprendo e me adapto rápido às mudanças.
 ---
 
 - **Linkedin: https://www.linkedin.com/in/ranielcsar/**
-- **Currículo: https://ranielcsar-organization.gitbook.io/curriculo/**
 - **Codepen: https://codepen.io/ranielcsar/pens/popular**
 - **CodesandBox: https://codesandbox.io/u/ranielcsar**
 

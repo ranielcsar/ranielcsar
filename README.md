@@ -1,7 +1,9 @@
 ### Olá! Me chamo Raniel César e sou Desenvolvedor!
 Estudante, sou discente de Licenciatura em Ciências da Computação pelo Ins. Federal Baiano, no campus de Sr. do Bonfim. Também sou bolsista no Programa Educação Tutorial (PET).
 
-Tenho 4 anos de experiência como Desenvolvedor Frontend/Backend, sendo 2 anos em software house e 2 como freelancer. Atuei em projetos de dashboards, gestão de serviços, controle de vendas, landing pages e SaaS no geral. Tendo como principais tecnologias: NextJS, ReactJS e TypeScript.
+Atualmente atuando como estagiário FullStack na JackExperts.
+
+Tenho 4 anos de experiência como Desenvolvedor Frontend, sendo 2 anos em software house e 2 como freelancer. Atuei em projetos de dashboards, gestão de serviços, controle de vendas, landing pages e SaaS no geral. Tendo como principais tecnologias: NextJS, ReactJS e TypeScript.
 Possuo conhecimento em Python, Django, Docker, Jest, Testing Library, Prisma, Express e NestJS.
 
 Sou comunicativo e gosto de ajudar, assim também como gosto da transparência de informações. Aprendo e me adapto rápido às mudanças.

@@ -20,9 +20,4 @@ Sou comunicativo e gosto de ajudar, assim como gosto da transparência de inform
 
 <!-- - **Currículo: https://ranielcsar-organization.gitbook.io/curriculo/** -->
 - **Linkedin: https://www.linkedin.com/in/ranielcsar/**
-- **Codepen: https://codepen.io/ranielcsar/pens/popular**
-- **CodesandBox: https://codesandbox.io/u/ranielcsar**
-
 ---
-
-![ranielcsar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ranielcsar&theme=vue-dark&hide_border=true)
